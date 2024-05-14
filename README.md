@@ -1,2 +1,1 @@
-# phonelist
-Aqua Phonelist
+# AquaPhoneDirectory
